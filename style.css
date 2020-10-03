@@ -1,1 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;700;800&display=swap");
 
+body {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.head {
+    font-size: 2.7em;
+    font-weight: 30;
+    color: white;
+    text-align: center;
+    background-color: orange;
+    padding: 42px;
+    border-style: solid;
+    border-color: white;
+
+
+}
+
+#main {
+    font-size: 1.5em;
+    font-weight: 30;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(145, 151, 91);
+    color: white;
+    padding: 0px;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+}
+
+#bg {
+    font-weight: 1;
+    background-color: rgba(60, 63, 26, 0.822);
+    padding: 140px
+}
+
+
+#foot {
+    font-weight: 1;
+    color: white;
+    text-align: left;
+    background-color: orange;
+    padding: 35px;
+    font-size: 1.2em;
+    border-style: solid;
+    border-color: white;
+}
